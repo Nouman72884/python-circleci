@@ -1,0 +1,6 @@
+{
+    "cluster": "circleci-demo-cluster",
+    "serviceName": "circleci-demo-service",
+    "taskDefinition": "circleci-demo-service",
+    "role": "ecsServiceRole"
+}
